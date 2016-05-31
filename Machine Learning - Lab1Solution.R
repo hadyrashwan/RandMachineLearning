@@ -1,6 +1,6 @@
 ######## Training ########
 
-
+## Created by Hatem El-Shazly as A Teaching assistant in the introduction to machine learing course 
 
 trainData = as.matrix(read.table("Data1.txt"))#read the data file and put it in matrix
 
