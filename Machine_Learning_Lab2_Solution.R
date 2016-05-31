@@ -1,4 +1,5 @@
 ################### Machine learning lab 2, Fisher disciminitive ########
+#### Created by Hatem El-Shazly as A Teaching assistant in the introduction to machine learing course 
 
 ########Training ########
 
